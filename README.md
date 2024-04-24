@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayakrish-MK
+- 👋 Hi, I’m Jayakrish-MK
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
